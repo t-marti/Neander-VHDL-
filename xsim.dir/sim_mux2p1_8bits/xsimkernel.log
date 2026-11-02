@@ -1,0 +1,7 @@
+Running: xsim.dir/sim_mux2p1_8bits/xsimk -runall -simmode gui -wdb sim_mux2p1_8bits.wdb -simrunnum 0 -socket 34703
+Design successfully loaded
+Design Loading Memory Usage: 30596 KB (Peak: 30596 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 104328 KB (Peak: 169864 KB)
+Simulation CPU Usage: 10 ms

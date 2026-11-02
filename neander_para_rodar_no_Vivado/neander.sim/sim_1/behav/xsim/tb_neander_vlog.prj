@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../neander.gen/sources_1/ip/memoria_neander/sim/memoria_neander.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

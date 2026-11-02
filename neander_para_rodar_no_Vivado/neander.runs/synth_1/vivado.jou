@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun Nov  1 19:46:13 2026
+# Process ID: 76082
+# Current directory: /home/marti/xilinx/Vivado/2023.2/neander/neander/neander.runs/synth_1
+# Command line: vivado -log neander.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source neander.tcl
+# Log file: /home/marti/xilinx/Vivado/2023.2/neander/neander/neander.runs/synth_1/neander.vds
+# Journal file: /home/marti/xilinx/Vivado/2023.2/neander/neander/neander.runs/synth_1/vivado.jou
+# Running On: marti, OS: Linux, CPU Frequency: 4336.164 MHz, CPU Physical cores: 16, Host memory: 11309 MB
+#-----------------------------------------------------------
+source neander.tcl -notrace

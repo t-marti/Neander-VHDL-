@@ -1,0 +1,25 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/ac.vhd,1793385991,vhdl,,,,ac,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/controle.vhd,1793421603,vhdl,,,,controle,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/decoder.vhd,1793412321,vhdl,,,,decoder,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/flags.vhd,1793400915,vhdl,,,,flags,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/mux2p1_8bits.vhd,1793390973,vhdl,,,,mux2p1_8bits,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/pc.vhd,1793383832,vhdl,,,,pc,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/rdm.vhd,1793389423,vhdl,,,,reg_rdm,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/rem.vhd,1793388893,vhdl,,,,reg_rem,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/ri.vhd,1793387957,vhdl,,,,ri,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/rtl/ula.vhd,1793421559,vhdl,,,,ula,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_ac.vhd,1793386198,vhdl,,,,tb_ac,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_controle.vhd,1793423824,vhdl,,,,tb_controle,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_decoder.vhd,1793412736,vhdl,,,,tb_decoder,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_flags.vhd,1793401887,vhdl,,,,tb_flags,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_mux2p1_8bits.vhd,1793400980,vhdl,,,,tb_mux2p1_8bits,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_neander.vhd,1793474646,vhdl,,,,tb_neander,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_pc.vhd,1793384104,vhdl,,,,tb_pc,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_rdm.vhd,1793423221,vhdl,,,,tb_rdm,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_rem.vhd,1793422313,vhdl,,,,tb_rem,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_ri.vhd,1793388081,vhdl,,,,tb_ri,,,,,,,,
+/home/ciexpert/thais.silva/workspace_vivado/neander/tb/tb_ula.vhd,1793422623,vhdl,,,,tb_ula,,,,,,,,

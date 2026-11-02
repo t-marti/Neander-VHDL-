@@ -1,0 +1,6 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/marti/xilinx/Vivado/2023.2/neander/neander/neander.sim/sim_1/synth/func/xsim/tb_neander_func_synth.vhd,1793573122,vhdl,,,,ac;controle;flags;memoria_neander;memoria_neander_blk_mem_gen_generic_cstr;memoria_neander_blk_mem_gen_prim_width;memoria_neander_blk_mem_gen_prim_wrapper_init;memoria_neander_blk_mem_gen_top;memoria_neander_blk_mem_gen_v8_4_7;memoria_neander_blk_mem_gen_v8_4_7_synth;neander;pc;reg_rdm;reg_rem;ri;ula,,,,,,,,
+/home/marti/xilinx/Vivado/2023.2/neander/neander/neander.srcs/sim_1/imports/tb/tb_neander.vhd,1793565017,vhdl,,,,tb_neander,,,,,,,,

@@ -1,0 +1,1 @@
+"work.tb_mux2p1_8bits" -s "sim_mux2p1_8bits" 

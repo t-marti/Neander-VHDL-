@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7s100fgga676-2" LaunchTime="1793573171" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/neander.dcp">
+  <File Type="VDS-TIMINGSUMMARY" Name="neander_timing_summary_synth.rpt"/>
+  <File Type="RDS-DCP" Name="neander.dcp"/>
+  <File Type="RDS-UTIL-PB" Name="neander_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="neander_utilization_synth.rpt"/>
+  <File Type="RDS-PROPCONSTRS" Name="neander_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="neander.vds"/>
+  <File Type="REPORTS-TCL" Name="neander_reports.tcl"/>
+  <File Type="VDS-TIMING-PB" Name="neander_timing_summary_synth.pb"/>
+  <File Type="PA-TCL" Name="neander.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/ip/memoria_neander/memoria_neander.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/ac.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/ac.vhd"/>
+        <Attr Name="ImportTime" Val="1793385991"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/controle.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/controle.vhd"/>
+        <Attr Name="ImportTime" Val="1793421603"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/decoder.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/decoder.vhd"/>
+        <Attr Name="ImportTime" Val="1793412321"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/flags.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/flags.vhd"/>
+        <Attr Name="ImportTime" Val="1793400915"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/mux2p1_8bits.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/mux2p1_8bits.vhd"/>
+        <Attr Name="ImportTime" Val="1793390973"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/pc.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/pc.vhd"/>
+        <Attr Name="ImportTime" Val="1793383832"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/rem.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/rem.vhd"/>
+        <Attr Name="ImportTime" Val="1793388893"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/rdm.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/rdm.vhd"/>
+        <Attr Name="ImportTime" Val="1793389423"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/ri.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/ri.vhd"/>
+        <Attr Name="ImportTime" Val="1793387957"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/ula.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/ula.vhd"/>
+        <Attr Name="ImportTime" Val="1793421559"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/rtl/neander.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../rtl/neander.vhd"/>
+        <Attr Name="ImportTime" Val="1793458820"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../coe/testememoria.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../coe/multiplicacao_somas_sucessivas.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../coe/soma.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../coe/subtracao_de_matrizes.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="neander"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/neander.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/neander.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2023"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

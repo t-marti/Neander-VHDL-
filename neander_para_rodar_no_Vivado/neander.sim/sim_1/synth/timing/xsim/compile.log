@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/marti/xilinx/Vivado/2023.2/neander/neander/neander.sim/sim_1/synth/timing/xsim/tb_neander_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module ULA
+INFO: [VRFC 10-311] analyzing module ac
+INFO: [VRFC 10-311] analyzing module controle
+INFO: [VRFC 10-311] analyzing module flags
+INFO: [VRFC 10-311] analyzing module memoria_neander
+INFO: [VRFC 10-311] analyzing module neander
+INFO: [VRFC 10-311] analyzing module reg_rdm
+INFO: [VRFC 10-311] analyzing module reg_rem
+INFO: [VRFC 10-311] analyzing module ri
+INFO: [VRFC 10-311] analyzing module memoria_neander_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-311] analyzing module memoria_neander_blk_mem_gen_prim_width
+INFO: [VRFC 10-311] analyzing module memoria_neander_blk_mem_gen_prim_wrapper_init
+INFO: [VRFC 10-311] analyzing module memoria_neander_blk_mem_gen_top
+INFO: [VRFC 10-311] analyzing module memoria_neander_blk_mem_gen_v8_4_7
+INFO: [VRFC 10-311] analyzing module memoria_neander_blk_mem_gen_v8_4_7_synth
+INFO: [VRFC 10-311] analyzing module glbl

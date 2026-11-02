@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"tb_neander_func_synth.vhd" \
+"../../../../../neander.srcs/sim_1/imports/tb/tb_neander.vhd" \
+
+# Do not sort compile order
+nosort

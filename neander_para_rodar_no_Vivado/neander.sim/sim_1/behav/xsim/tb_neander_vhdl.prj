@@ -1,0 +1,17 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../neander.srcs/sources_1/imports/rtl/ac.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/controle.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/decoder.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/flags.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/mux2p1_8bits.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/pc.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/rem.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/rdm.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/ri.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/ula.vhd" \
+"../../../../neander.srcs/sources_1/imports/rtl/neander.vhd" \
+"../../../../neander.srcs/sim_1/imports/tb/tb_neander.vhd" \
+
+# Do not sort compile order
+nosort

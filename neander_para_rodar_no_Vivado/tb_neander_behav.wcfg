@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_neander_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_neander" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1,579.608 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,694.677 ns"></ZoomEndTime>
+      <Cursor1Time time="1,614.542 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="135"></NameColumnWidth>
+      <ValueColumnWidth column_width="83"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject type="logic" fp_name="/tb_neander/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_neander/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_neander/dut/ri_out">
+      <obj_property name="ElementShortName">ri_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ri_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_neander/dut/rem_out">
+      <obj_property name="ElementShortName">rem_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rem_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_neander/dut/rdm_out">
+      <obj_property name="ElementShortName">rdm_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rdm_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_neander/dut/mem_we">
+      <obj_property name="ElementShortName">mem_we</obj_property>
+      <obj_property name="ObjectShortName">mem_we</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_neander/dut/u_controle/is_sub">
+      <obj_property name="ElementShortName">is_sub</obj_property>
+      <obj_property name="ObjectShortName">is_sub</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_neander/dut/u_controle/Z_flag">
+      <obj_property name="ElementShortName">Z_flag</obj_property>
+      <obj_property name="ObjectShortName">Z_flag</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_neander/dut/u_controle/N_flag">
+      <obj_property name="ElementShortName">N_flag</obj_property>
+      <obj_property name="ObjectShortName">N_flag</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/tb_neander/dut/u_controle/state">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_neander/dut/u_ac/out_ac">
+      <obj_property name="ElementShortName">out_ac[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_ac[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_neander/dut/u_ac/data_ac">
+      <obj_property name="ElementShortName">data_ac[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_ac[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_neander/dut/o_hlt">
+      <obj_property name="ElementShortName">o_hlt</obj_property>
+      <obj_property name="ObjectShortName">o_hlt</obj_property>
+   </wvobject>
+</wave_config>
