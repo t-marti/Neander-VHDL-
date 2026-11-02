@@ -1,0 +1,16 @@
+LISTAGEM DE MONTAGEM
+====================
+
+00  20 10     LDA NUM1
+02  30 11     ADD NUM2
+04  10 12     STA RESULT
+06  F0        HLT
+10  05        NUM1:   .BYTE 05
+11  04        NUM2:   .BYTE 04
+12  00        RESULT: .BYTE 00
+
+TABELA DE ROTULOS/VARIAVEIS
+==========================
+NUM1             10
+NUM2             11
+RESULT           12

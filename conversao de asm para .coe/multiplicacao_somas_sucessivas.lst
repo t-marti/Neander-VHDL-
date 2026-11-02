@@ -1,0 +1,33 @@
+LISTAGEM DE MONTAGEM
+====================
+
+00  00        NOP
+01  20 1F     LDA ZERO
+03  10 1E     STA RESULT
+05  20 1D     LDA B
+07  A0 19     JZ FIM
+09  20 1E     LDA RESULT
+0B  30 1C     ADD A
+0D  10 1E     STA RESULT
+0F  20 1D     LDA B
+11  70 20     SUB UM
+13  10 1D     STA B
+15  A0 19     JZ FIM
+17  80 09     JMP LOOP
+19  20 1E     LDA RESULT
+1B  F0        HLT
+1C  04        A:      .BYTE 04
+1D  03        B:      .BYTE 03
+1E  00        RESULT: .BYTE 00
+1F  00        ZERO:   .BYTE 00
+20  01        UM:     .BYTE 01
+
+TABELA DE ROTULOS/VARIAVEIS
+==========================
+LOOP             09
+FIM              19
+A                1C
+B                1D
+RESULT           1E
+ZERO             1F
+UM               20
